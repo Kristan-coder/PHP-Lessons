@@ -15,6 +15,9 @@
     <?php
     $name = $_GET['person'];
     echo $name. " is bad at growing hair";
+    //This gets something from the database
+   
+    /*echo "hi";*/
     ?>
   </body>
 </html>`
