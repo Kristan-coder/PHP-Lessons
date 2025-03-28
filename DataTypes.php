@@ -21,7 +21,7 @@
    
 
     //Array
-    $names = array(Johnny","Kristan","Cameron");
+    $names = array("Johnny","Kristan","Cameron");
     echo $names['2'];
     ?>
     
