@@ -18,6 +18,7 @@
     //This gets something from the database
    
     /*echo "hi";*/
+    
     ?>
   </body>
 </html>`
