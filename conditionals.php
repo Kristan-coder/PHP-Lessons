@@ -5,6 +5,46 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Conditionals</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-SgOJa3DmI69IUzQ2PVdRZhwQ+dy64/BUtbMJw1MZ8t5HZApcHrRKUc4W0kG879m7" crossorigin="anonymous">
+    <style>
+       
+        body {
+            background-color:rgb(33, 170, 74); /
+            color: #333;
+        }
+
+       
+        .navbar {
+            background-color:rgb(23, 122, 53);
+        }
+
+       
+        .btn-outline-success {
+            border-color:rgb(31, 107, 50);
+            color:rgb(33, 105, 51);
+        }
+
+        .btn-outline-success:hover {
+            background-color:rgb(88, 213, 161);
+            color: white;
+        }
+
+       
+        input[type="text"] {
+            background-color: #f0f8ff;
+            border: 1px solid #a1c8e0;
+        }
+
+     
+        button {
+            background-color:rgb(39, 228, 155);
+            border-color: #58a6d5;
+            color: white;
+        }
+
+        button:hover {
+            background-color:rgb(0, 153, 255);
+        }
+    </style>
   </head>
 <body>
 <nav class="navbar navbar-expand-lg bg-body-tertiary">
