@@ -8,41 +8,41 @@
     <style>
        
         body {
-            background-color:rgb(33, 170, 74); /
+            background-color:rgb(37, 39, 37); /
             color: #333;
         }
 
        
         .navbar {
-            background-color:rgb(23, 122, 53);
+            background-color:rgb(29, 29, 29);
         }
 
        
         .btn-outline-success {
-            border-color:rgb(31, 107, 50);
-            color:rgb(33, 105, 51);
+            border-color:rgb(39, 41, 39);
+            color:rgb(56, 56, 56);
         }
 
         .btn-outline-success:hover {
-            background-color:rgb(88, 213, 161);
+            background-color:rgb(64, 65, 64);
             color: white;
         }
 
        
         input[type="text"] {
             background-color: #f0f8ff;
-            border: 1px solid #a1c8e0;
+            border: 1px solidrgb(182, 182, 182);
         }
 
      
         button {
-            background-color:rgb(39, 228, 155);
-            border-color: #58a6d5;
+            background-color:rgb(204, 204, 204);
+            border-color:rgb(97, 97, 97);
             color: white;
         }
 
         button:hover {
-            background-color:rgb(0, 153, 255);
+            background-color:rgb(84, 85, 85);
         }
     </style>
   </head>
@@ -56,7 +56,7 @@
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="http://localhost/PHP-Lessons/index.php">Home</a>
+          <a class="nav-link active" aria-current="page" href="http://localhost/PHP-Lessons/signup.php>Home</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#">Link</a>
